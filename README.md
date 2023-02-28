@@ -9,7 +9,7 @@ GUI version of NIMS-OS (NIMS Orchestration System)
 
 ## Install procedures
 
-* Before installing the GUI version, Python version of NIMS-OS is required according to install .
+* Before installing the GUI version, Python version of NIMS-OS is required.
 
 * Download the installer (NIMS-OS-GUI-main.zip) from the code bottun in this GitHub.
 
