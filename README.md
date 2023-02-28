@@ -1,4 +1,4 @@
-# nimsos-gui
+# NIMS-OS-GUI
 GUI version of NIMS-OS (NIMS Orchestration System)
 
 ## System requirements
