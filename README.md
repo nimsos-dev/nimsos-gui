@@ -1,6 +1,11 @@
 # nimsos-gui
 GUI version of NIMS-OS (NIMS Orchestration System)
 
+# Document
+
+- [English](https://nimsos-dev.github.io/nimsos/docs/en/gui.html)
+- [日本語](https://nimsos-dev.github.io/nimsos/docs/jp/gui.html)
+
 ## System requirements
 
 * Windows 10 (64bit)
